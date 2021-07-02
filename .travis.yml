@@ -1,3 +1,4 @@
 script:
 - uname -a
 - free -m
+- docker version

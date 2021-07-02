@@ -1,3 +1,5 @@
+dist: focal
+group: edge
 script:
 - uname -a
 - free -m

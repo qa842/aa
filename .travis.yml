@@ -1,4 +1,4 @@
-dist: focal
+dist: xenial
 group: edge
 script:
 - uname -a
